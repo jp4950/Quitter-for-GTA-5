@@ -11,3 +11,6 @@ It helps to avoid players getting shot down by the rapid fire glitch.
 Created a new branch (automatic), to make it so the game terminates automatically when the characters gets to low health (healthbar starts to flash red)
 
 
+
+
+
